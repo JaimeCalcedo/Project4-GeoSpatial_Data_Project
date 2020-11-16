@@ -1,0 +1,12 @@
+,name,category_code,founded_year,total_money_raised,offices,coordinates,latitudes,longitudes
+0,PeekYou,search,2012,$1.83M,"[{'latitude': 40.757929, 'longitude': -73.985506}]","[40.757929, -73.985506]",40.757929,-73.985506
+1,Fixya,web,2013,$8M,"[{'latitude': 37.566879, 'longitude': -122.323895}]","[37.566879, -122.323895]",37.566879,-122.323895
+2,Widgetbox,other,2012,$14.5M,"[{'latitude': 37.798853, 'longitude': -122.398599}]","[37.798853, -122.398599]",37.798853,-122.398599
+3,RazorGator,ecommerce,2011,$58.8M,"[{'latitude': 34.047312, 'longitude': -118.445243}]","[34.047312, -118.445243]",34.047312,-118.445243
+4,Social Gaming Network,games_video,2011,$17.1M,"[{'latitude': 37.446823, 'longitude': -122.161523}, {'latitude': 34.0698494, 'longitude': -118.4054182}]","[37.446823, -122.161523]",37.446823,-122.161523
+5,Skydeck,mobile,2012,$4M,"[{'latitude': 37.5645375, 'longitude': -122.3254705}]","[37.5645375, -122.3254705]",37.5645375,-122.3254705
+6,Moblica,mobile,2011,$6M,"[{'latitude': 32.0554, 'longitude': 34.7595}]","[32.0554, 34.7595]",32.0554,34.7595
+7,travelmob,travel,2011,$1M,"[{'latitude': 21.303049, 'longitude': -157.78907}]","[21.303049, -157.78907]",21.303049,-157.78907
+8,travelmob,travel,2011,$1M,"[{'latitude': 21.303049, 'longitude': -157.78907}]","[21.303049, -157.78907]",21.303049,-157.78907
+9,VisualOn,software,2011,$3.1M,"[{'latitude': 37.270518, 'longitude': -121.955879}]","[37.270518, -121.955879]",37.270518,-121.955879
+10,VistaGen Therapeutics,biotech,2013,$41.3M,"[{'latitude': 37.6656476, 'longitude': -122.3843489}]","[37.6656476, -122.3843489]",37.6656476,-122.3843489
